@@ -1,0 +1,59 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  
+ 
+}
+h1 {
+  text-align: center;
+  color: indigo;
+}
+table {
+  
+  
+  width: 100%;
+ 
+  
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+th, td {
+  
+  text-align: left;
+  border: 1px solid #dee2e6;
+}
+th {
+  background-color: pink;
+  color: rgb(66, 64, 64);
+}
+tr:hover {
+  background-color: rgb(0, 204, 255);
+}
+.form-control {
+  width: 40%;
+  margin: auto;
+  
+  display: block;
+}
+.btn{width: 70px;
+ left: 90%;
+ bottom:45px;
+
+}
+
+
+
+.rounded-table {
+  border-collapse: separate; 
+  border-radius: 20px; 
+  overflow: hidden; 
+}
+
+.rounded-table th,
+.rounded-table td {
+  padding: 10px; 
+  border: 1px solid #ccc; 
+  color:rgb(66, 64, 64) ;
+}
+
+
